@@ -4,6 +4,7 @@
   "private": true,
   "author": "Andre Staltz",
   "license": "MIT",
+  "main": "src/main.js",
   "dependencies": {
     "@cycle/run": "1.0.0-rc.7",
     "@cycle/dom": "15.0.0-rc.1",
